@@ -34,13 +34,13 @@ The above graph is skewed to the right.
 
 When importing the gapminder data and plotting an overlapping histogram you get the following. 
 
-![](nolog.PNG)
+![](fixednolog.PNG)
 
 When applying logarithmic transformation to the data you get a graph that looks like the following 
 
 ![](updated life.PNG)
 
-When comparing the first graph and then the graph with logarithmic transformation you can notice that the graphs are relatively similar. The first graph has more outliers on the outside of the data sets.  It makes the data more skewed and the graph harder to comprehend. As you can notice between the first graph and the second graph, there is more overlap on the first one. In conclusion the logarithmic transformation made the graph much easier to comprehend with less confusion.
+When comparing the first graph and then the graph with logarithmic transformation you can notice that the graphs are relatively similar. The first graph has more outliers on the outside of the data sets.  It makes the data more skewed and the graph harder to comprehend. As you can notice between the first graph and the second graph.  In conclusion the logarithmic transformation made the graph much easier to comprehend with less confusion.
 
 
 
