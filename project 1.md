@@ -46,7 +46,7 @@ Alternative terminology for rows and columns would be variables and observations
 
 Below is the data frame that is given from the gapminder file. 
 
-![](C:\Users\Jason\Desktop\Data Science\gapminderdf.PNG)
+![](gapminderdf.PNG)
 
 Currently the above data frame is in alphabetical order with Afghanistan being the first country while Zimbabwe is the last. The maximum year is 2007 which I discovered with the following code.
 
@@ -65,7 +65,7 @@ When the data was then ordered by life expectancy the country with the lowest li
 
 Below is a data frame that is a subset with 4 countries being Italy, France, Germany and Spain 
 
-![](C:\Users\Jason\Desktop\Data Science\4 countries.PNG)
+![](4 countries.PNG)
 
 **You have been introduced to four logical operators thus far: `&`, `==`, `|` and `^`. Describe each one including its purpose and function. Provide an example of how each might be used in the context of programming.**
 
