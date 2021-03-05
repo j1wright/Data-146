@@ -36,7 +36,7 @@ pd.read_csv('gapminder.tsv', sep ='\t')
 
 Below is a pandas data frame that represents my practice personal bests for my senior year of track in field for the hammer throw.
 
-![](C:\Users\Jason\Desktop\Data Science\practicepbs.PNG)
+![](practicepbs.PNG)
 
 This data frame is very simple as there are only two variables to practice training personal bests.  That being the weight of the implement that is being thrown and then the distance of the implement that was thrown. The distance is in meters. Both of these variables are labeled in the columns. 
 
