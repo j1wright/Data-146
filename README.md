@@ -9,5 +9,5 @@ in the data science department because it helps me get a unique perspective of d
 team with my event being the hammer throw.
 
 [Project 1](project 1.html)
-
 [Project 2](project 2.html)
+[Project_3](project 3.html)
