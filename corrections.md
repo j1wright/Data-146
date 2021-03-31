@@ -45,7 +45,7 @@ Xsy_df.corr()
 
 The data frame looked like below 
 
-![](C:\Users\Jason\Desktop\Data Science\correlation dataframe.PNG)
+![](correlation dataframe.PNG)
 
 The above graph is almost like a heatmap without the colors. Obviously a heatmap can be used to measure the strength of a correlation by color, but I found this way easier when finding which variables have the strongest and weakest correlations. 
 
