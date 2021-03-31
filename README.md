@@ -19,3 +19,4 @@ team with my event being the hammer throw.
 **Extra Credit** 
 
 [Slice of Data Science Reaction](Slice of data science EC.html)
+[Corrections](corrections.html)
