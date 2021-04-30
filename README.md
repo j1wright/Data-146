@@ -18,6 +18,8 @@ team with my event being the hammer throw.
 
 [Project_5a](project 5a.html)
 
+[Project_5b_partial])(project 5b.html)
+
 **Extra Credit** 
 
 [Slice of Data Science Reaction](Slice of data science EC.html)
