@@ -18,7 +18,7 @@ team with my event being the hammer throw.
 
 [Project_5a](project 5a.html)
 
-[Project_5b_partial])(project 5b.html)
+[Project_5b_partial](project 5b.html)
 
 **Extra Credit** 
 
