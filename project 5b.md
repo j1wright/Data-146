@@ -140,11 +140,11 @@ I then imported and cleaned the data by deleting any NaN values and then setting
 
   **Without adding distance** 
 
-  ![](C:\Users\Jason\OneDrive\Desktop\Data Science\5b\no distance weight.PNG)
+  ![](no distance weight.PNG)
 
   **With adding distance** 
 
-  ![](C:\Users\Jason\OneDrive\Desktop\Data Science\5b\distance weight.PNG)
+  ![](distance weight.PNG)
 
 - Execute a logistic regression method on the data. How did this model fair in terms of accuracy compared to K-nearest neighbors?
 
@@ -156,7 +156,7 @@ When I ran the logistic regression I received a testing score of .5466081015. Th
 
 When  I reduced the categorical data by combining class 2 and 3 into one class 2 the KNN test score was 0.535033 which is a slightly weaker correlation then from KNN. The results are plotted below. 
 
-![](C:\Users\Jason\OneDrive\Desktop\Data Science\5b\KNN reduced.PNG)
+![](KNN reduced.PNG)
 
 The logistic regression of the new data has a test score of 0.557833 which is actually an improvement of the logistic 
 
